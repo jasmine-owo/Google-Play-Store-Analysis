@@ -1,7 +1,7 @@
-# Google Play Store Exploratory Data Analysis
+## Google Play Store Exploratory Data Analysis
 
-## **Introduction**
+### **Introduction**
 
-## **Questions**
+### **Questions**
 
-## **Findings**
+### **Findings**
