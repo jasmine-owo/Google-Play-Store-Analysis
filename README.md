@@ -18,6 +18,12 @@ Why Google Play Store?
   - highest installs
 5. What is the trend of app built over time?
 
+### 🎲 **Data Analysis**
+First, I look at the distribution of the number of apps in each category. It shows that most of the apps are categorised into the 'Family' category.
+![p1 barchart](https://user-images.githubusercontent.com/108580837/196062857-6cfc5f0c-bbe5-47a0-a440-ac26b83469a2.png)
+
+
+
 ### 🎲 **Conclusions**
 1. The 'Events' category has the highest rating mean. While 'Family' category appears to have the most outliers under its rating mean.
 2. The top 3 highest number of install categories are: Game, Communication and Tools.
