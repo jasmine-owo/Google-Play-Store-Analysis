@@ -3,6 +3,10 @@ As apps become a demanding usage in our daily life, I was wondering the trend of
 
 Dataset can be downloaded here: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
+```diff
+! To read the full report, please check out the Google Play Store Report
+```
+
 ### 🎲 **Introduction**
 Why Google Play Store?
 - Google Play Store is the official app store in Android Market. Most users are required to install applications through Google Play Store.
@@ -28,4 +32,4 @@ Why Google Play Store?
    - The highest installs and review app is 'Facebook'.
 5. From 2014 to 2018, most of the app made are in the category 'Family'. The top 3 number of app categories build are: Family, Game and Tools.
 6. In this project, I applied Decision Tree, Logistic Regression, Support Vector Machines and K Nearest Neighbors to train the data. If the app rating is equal or greater than 4.5, it is a successful app.
-After training, I conclude that KNN model has the highest f1 score and Jaccard Score (f1 score: 0.619, Jaccard Score: 0.497). This indicates KNN is the best classification model in predicting a successful app.
+After training, I conclude that KNN model has the highest f1 score and Jaccard Score (f1 score: 0.612 , Jaccard Score: 0.493). This indicates KNN is the best classification model in predicting a successful app.
